@@ -12,9 +12,9 @@ Our purpose of the study is to identify the groups of people who are more likely
 
 Files
 ------
-- **drug_consumption_data.ipynb**: Final Data Cleaning and EDA Notebook
-- **Technical_notebook_cannabis**: Final Modeling Notebook for Cannabis
-- **Technical_notebook_ecstasy**: Final Modeling Notebook for Ecstasy
+- [**drug_consumption_data.ipynb**](https://github.com/apy444/personality_drug_consumption/blob/master/drug_consumption_data.ipynb): Final Data Cleaning and EDA Notebook
+- [**Technical_notebook_cannabis**](https://github.com/apy444/personality_drug_consumption/blob/master/Technical_notebook_cannabis.ipynb): Final Modeling Notebook for Cannabis
+- [**Technical_notebook_ecstasy**](https://github.com/apy444/personality_drug_consumption/blob/master/Technical_notebook_ecstasy.ipynb): Final Modeling Notebook for Ecstasy
 - [**Drug Consumption Presentation.pdf**](https://github.com/apy444/personality_drug_consumption/blob/master/Drug%20Consumption%20Presentation.pdf): Slidedeck in pdf format
 - **data**: Folder with all of the data (original, cannabis, ecstasy)
 - **img**: Folder with all of the images
